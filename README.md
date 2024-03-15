@@ -1,6 +1,6 @@
 # What's the time?
 
-https://github.com/MrD0B/What-s-the-time-/blob/main/logo.png?raw=true
+[![Awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=Awesome+plugin&color=000000&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
 
 Returns the exact time typed in the Italy timezone
 
