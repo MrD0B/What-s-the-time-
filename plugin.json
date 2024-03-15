@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
-    "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "name": "What's the time?",
+    "version": "0.0.3",
+    "description": "Returns the exact time typed in the Italy timezone",
+    "author_name": "MR.D0B",
+    "author_url": "https://github.com/MrD0B",
+    "plugin_url": "https://github.com/MrD0B/What-s-the-time-",
+    "tags": "Cat, Tools, Time",
+    "thumb": "https://github.com/MrD0B/What-s-the-time-/blob/main/logo.png?raw=true"
 }
